@@ -3,7 +3,13 @@
     
 --- 
 
+Kanban-Bug.xml - https://github.com/dvbychkov/09-ci-01-intro/blob/master/Kanban-Bug.xml
 
+Kanban-Task.xml - https://github.com/dvbychkov/09-ci-01-intro/blob/master/Kanban-Task.xml
+
+Scrum-Bug.xml - https://github.com/dvbychkov/09-ci-01-intro/blob/master/Scrum-Bug.xml
+
+Scrum-Task.xml - https://github.com/dvbychkov/09-ci-01-intro/blob/master/Scrum-Task.xml
 
 
 
